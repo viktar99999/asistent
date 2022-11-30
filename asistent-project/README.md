@@ -8,9 +8,11 @@ Install:
 Command for install Python:
 sudo apt install python3.8
 sudo apt install python3.9
+Command for install pip:
 sudo apt install python3-pip
 Check version Python:
 Python3 --version
+Check version pip:
 pip3 --version
 Others.
 Install:
