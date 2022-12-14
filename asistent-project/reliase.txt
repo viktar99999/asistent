@@ -3,5 +3,6 @@ Python-lib gTTTs==2.2.4
 Language - RU
 version 1.1
 Upgrade Python-lib gTTS==2.3.0
+Upgrade SpeechRecognition==3.9.0
 Language - RU
 Language - EN
