@@ -17,7 +17,7 @@ pip3 --version
 Others.
 Install:
 pip3 install gTTS
-pip3 install pyAudio
+pip3 install PyAudio
 pip3 install SpeechRecognition
 Check install python-libs:
 command python3.8
