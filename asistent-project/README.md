@@ -28,3 +28,4 @@ import speech_recognition as sr
 Reliase:
 version==1.0
 version==1.1
+version==1.1.1
